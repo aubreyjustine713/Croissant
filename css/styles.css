@@ -1,4 +1,12 @@
 body {
-  background: olive;
-  color: antiquewhite;
+  background: rgb(230, 179, 129);
+  color: rgb(39, 39, 39);
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+  padding-top: 30px;
+}
+img {
+  padding: 15px;
+  width: 100%;
 }
